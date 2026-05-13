@@ -1,0 +1,8 @@
+String (Metinler - str)
+Karakter dizileridir. Python'da tek tırnak (') veya çift tırnak (") içinde tanımlanırlar.
+• Kullanımı: İsimler, mesajlar, adresler gibi sözel verileri saklamak için kullanılır.
+• Örnek: isim = "İrem Naz", mesaj = 'Merhaba Python'
+4. Boolean (Mantıksal Değerler - bool)
+Sadece iki değer alabilir: True (Doğru) veya False (Yanlış).
+• Kullanımı: Karar yapılarında (if-else), döngülerde ve bir durumun kontrol edilmesinde (Örn: Işık açık mı? Evet/Hayır) kullanılır.
+• Örnek: staj_devam_ediyor_mu = True, odv_yapildi = False
